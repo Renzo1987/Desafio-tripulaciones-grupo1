@@ -1,3 +1,18 @@
 [submodule "Data-science-g1"]
 	path = Data-science-g1
 	url = https://github.com/Renzo1987/Data-science-g1.git
+[submodule "Cloud-g1"]
+	path = Cloud-g1
+	url = https://github.com/Renzo1987/Cloud-g1.git
+[submodule "UX-UI-g1"]
+	path = UX-UI-g1
+	url = https://github.com/Renzo1987/UX-UI-g1.git
+[submodule "Ciberseguridad-g1"]
+	path = Ciberseguridad-g1
+	url = https://github.com/Renzo1987/Ciberseguridad-g1.git
+[submodule "Marketing-digital-g1"]
+	path = Marketing-digital-g1
+	url = https://github.com/Renzo1987/Marketing-digital-g1.git
+[submodule "Fullstack-g1"]
+	path = Fullstack-g1
+	url = https://github.com/Renzo1987/Fullstack-g1.git
