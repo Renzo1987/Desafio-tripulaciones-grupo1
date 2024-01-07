@@ -16,3 +16,6 @@
 [submodule "Fullstack-g1"]
 	path = Fullstack-g1
 	url = https://github.com/Renzo1987/Fullstack-g1.git
+[submodule "DESAFIO_TRIPULACIONES_SEVERAL"]
+	path = DESAFIO_TRIPULACIONES_SEVERAL
+	url = https://github.com/PALOMAOC/DESAFIO_TRIPULACIONES_SEVERAL.git
